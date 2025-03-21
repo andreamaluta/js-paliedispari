@@ -15,3 +15,11 @@ Ho bisogno di parametri?
 Devo restituire un valore?
 Se sì, di che tipo?
 Buon lavoro e buon divertimento!
+
+Esercizio pari o dispari
+1. chiedo all'utente se vuole pari o dispari tramite prompt
+2. chiedo all'utente di inserire un numero da 1 a 5
+3. genero randomicamente un numero da 1 a 5 per il computer
+4. sommo i due numeri
+5. controllo se la somma è pari o dispari
+6. stampo chi ha vinto
