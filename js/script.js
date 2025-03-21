@@ -50,3 +50,15 @@
 
 // Esercizio palindromo
 
+function isPalindrome(word){
+    let reverseWord = word.split('').reverse().join('');
+    if(reverseWord==word){
+        console.log("la parola è palindroma")
+    }else{
+        console.log("la parola non è palindroma")
+    }
+}
+
+let userWord = prompt("scegli una parola");
+console.log(userWord);
+isPalindrome(userWord);
