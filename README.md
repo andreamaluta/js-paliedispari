@@ -23,3 +23,10 @@ Esercizio pari o dispari
 4. sommo i due numeri
 5. controllo se la somma è pari o dispari
 6. stampo chi ha vinto
+
+Esercizio palindromo
+1. chiedo all'utente una parola che vuole controllare se è palindroma
+2. trasformo tramite split la stringa in un array
+3. tramite reverse rovescio l'array
+4. tramite join trasformo il reverse array in una stringa
+5. controllo se è uguale alla stringa inziale
